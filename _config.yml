@@ -18,10 +18,10 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : http://javaboy666.github.io
+url     : http://ternencezhou.github.io
 baseurl : # does not include hostname
-title   : 江南一点雨
-description: 电子书示例网站，关注微信公众号：江南一点雨 ，回复 2TB 获取超 2TB 免费 Java 教程。
+title   : TernenceZhou
+description: 欢迎来到TernenceZhou的个人博客
 
 
 ## => Language and Timezone
@@ -34,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 江南一点雨
+  name      : TernenceZhou
   url       :
   avatar    : https://www.javaboy.org/images/sb/javaboy.jpg
   bio       : I am an amazing person.
@@ -45,7 +45,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: javaboy666/javaboy666.github.io
+repository: TernenceZhou/TernenceZhou.github.io
 repository_tree: master
 
 
